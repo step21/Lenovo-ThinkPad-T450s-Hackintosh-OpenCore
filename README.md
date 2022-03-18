@@ -5,17 +5,13 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.8-green)](https://github.com/acidanthera/OpenCorePkg)
 [![ThinkPad](https://img.shields.io/badge/ThinkPad-T450s.X250.T450.X1C3-orange)](https://think.lenovo.com.cn/index.html)
 
-**免责声明:**
+**Disclaimer:**
 
-### 作者：[@CLAY-BIOS](https://github.com/CLAY-BIOS)  
-在开始之前，请阅读整个自述文件。
-我对可能造成的任何损失不承担任何责任。
-如果您发现错误或有任何改进（无论是在配置中还是在文档中），请考虑打开问题或拉取请求。
-如果您发现我的工作有用，可以考虑点击右上角的⭐️Star。
-这对我来说意义重大。 
+### Author：[@CLAY-BIOS](https://github.com/CLAY-BIOS)  
+Please read the entire README before starting. I am not responsible for any loss that may be caused. If you find a bug or have any improvements (either in the configuration or in the documentation), please consider opening an issue or pull request. If you find my work useful, consider clicking ⭐️Star (on the original) in the upper right corner. This means a lot to me. 
 
 
-## 简介
+## Introduction
 
 - 此仓库原本是为ThinkPad T450s创建，默认网卡为DW1820a，通过后续更新支持了一些其他机型。
 - 声卡默认 layout-id = 32，耳机杂音请使用声卡修复脚本(ALCPlugFix)。 
